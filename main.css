@@ -1,0 +1,36 @@
+.body-bg {
+    
+    background-color:#efe0c7;
+}
+
+
+.login-card {
+    margin-top:20%;
+    background-color:#F4F2F0;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.login-img {
+    margin:auto;
+    display:block;
+}
+
+
+form.login-form {
+    max-width:300px;
+    margin:auto;
+}
+
+button.login-btn {
+    display:block;
+    margin:auto;
+    width:100%;
+    margin-bottom:15px;
+}
+
+a.createNewAccount {
+    text-align:center;
+    display:block;
+    padding: 1.2rem;
+    font-size: 1.2rem;
+}
